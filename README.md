@@ -9,6 +9,9 @@ Esta es la url de la función: https://us-central1-server-5907c.cloudfunctions.n
 
 3. index.html (Es el frontend que muestra las funciones de abrir la cámara en la página web, tomar una foto y mostrar la descripción de lo que ve en pantalla)
 2. script.js (En este archivo se procesan todas las funciones de la página y es donde se maneja la comunicación con la función de cloud run)
+Esta es la url de la página web: https://prueba1-f90c9.web.app/
+
+
 
 # Cámara
 
