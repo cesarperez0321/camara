@@ -1,0 +1,14 @@
+{
+  "name": "cloud-image-processing",
+  "version": "1.0.0",
+  "description": "Procesamiento de imágenes con Vision API",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=wh"
+  },
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google-cloud/vision": "^4.2.0",
+    "axios": "^1.5.0"
+  }
+}
